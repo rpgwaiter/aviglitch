@@ -22,8 +22,8 @@ Gem::Specification.new do |spec|
   spec.extra_rdoc_files = ["README.md", "LICENSE"]
   spec.rdoc_options << "-m" << "README.md"
 
-  spec.add_development_dependency "bundler", "~> 1.3"
-  spec.add_development_dependency "rake", "~> 10.0"
-  spec.add_development_dependency "rspec", "~> 2.0"
-  spec.add_development_dependency "rdoc", "~> 4.0"
+  spec.add_development_dependency "bundler", "~> 2.1.4"
+  spec.add_development_dependency "rake", "~> 13.0.3"
+  spec.add_development_dependency "rspec", "~> 3.10"
+  spec.add_development_dependency "rdoc", "~> 6.3.1"
 end
