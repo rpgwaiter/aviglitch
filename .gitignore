@@ -6,6 +6,6 @@ doc
 pkg
 tmp
 *.gem
-Gemfile.lock
 Guardfile
 .yardoc
+.history
